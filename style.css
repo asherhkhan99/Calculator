@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.table{
+    width: 250px !important;
+    border: 2px solid black;
+    line-height: 20px !important;
+    box-shadow: 5px 5px 15px grey;
+    background-color: #999999;
+}
+.button{
+    width: 50px !important;
+    padding: -10px !important;
+    box-shadow: 2px 2px 2px grey;
+    border-radius: 50px;
+}
+
+.button1{
+    border-radius: 50px;
+}
+
+.button:hover{
+    background-color: #34495e;
+    color: #FFF;
+}
+.button1:hover{
+    background-color: #34495e;
+    color: #FFF;
+}
+.clearBtn:hover{
+    background-color: darkred !important;
+}
